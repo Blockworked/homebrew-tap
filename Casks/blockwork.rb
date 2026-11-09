@@ -1,8 +1,8 @@
 cask "blockwork" do
-  version "0.6.0"
-  sha256 "5928a32a11e891e065381f7a3e8015f54c8eeb925405ba11b6210496084835c3"
+  version "0.6.1"
+  sha256 "ba4501cbc10ec2c0357c01cd069dc3a871bfdae1a101516de60caa819d805c81"
 
-  url "https://github.com/Blockworked/Blockwork/releases/download/0.6.0/blockwork-macos-arm64.app.zip"
+  url "https://github.com/Blockworked/Blockwork/releases/download/0.6.1/blockwork-macos-arm64.app.zip"
   name "Blockwork"
   desc "Visually build and run keyboard and mouse macros"
   homepage "https://github.com/Blockworked/Blockwork"
